@@ -1,6 +1,6 @@
 #!chezscheme
 
-(library (monad)
+(library (chezscheme-monad v1 monad)
   (export monad <-)
 
   (import (chezscheme))
