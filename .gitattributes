@@ -1,4 +1,5 @@
 README.md      export-ignore
 shell.nix      export-ignore
+project.ss     export-ignore
 .gitattributes export-ignore
 .gitignore     export-ignore
